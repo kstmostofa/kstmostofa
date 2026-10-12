@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
-<h3 align="center">A passionate Backend Developer from Bangladesh,</h3>
+# Md Mostafijur Rahman
 
-![Header](https://github.com/kstmostofa/kstmostofa/blob/main/banner.gif)
+**Full Stack Software Engineer | Laravel · PHP · React · Next.js · AWS**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kstmostofa&label=Profile%20views&color=0e75b6&style=flat" alt="kstmostofa" /> </p>
+📧 [mostofa122@gmail.com](mailto:mostofa122@gmail.com) · 🌐 [mostofa.me](https://mostofa.me) · 💼 [linkedin.com/in/mostofa-me](https://www.linkedin.com/in/mostofa-me/) · 🐦 [x.com/Mostofa_Me](https://x.com/Mostofa_Me)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstmostofa" alt="kstmostofa" /></a> </p>
+![Banner](banner.gif)
 
-<p align="left"> <a href="https://twitter.com/mostofa_me" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_me?logo=twitter&style=for-the-badge" alt="mostofa_me" /></a> </p>
+## Summary
 
-- 🔭 I’m currently working on [CleverStack Innovations Private Limited](https://www.cleverstack.in/)
+Full Stack Software Engineer with 7+ years of experience building scalable web applications, SaaS platforms, and cloud infrastructure. Specialized in Laravel and PHP backends, React and Next.js frontends, and AWS deployments. Experienced in cloud telephony (FreeSWITCH, SMPP, WebRTC), CRM integrations, database performance tuning, and leading small development teams. Maintainer of open-source Laravel packages, including [laravel-whatsapp](https://github.com/kstmostofa/laravel-whatsapp) (200+ GitHub stars).
 
-- 🌱 I’m currently learning **Next JS and Express JS**
+**Open to new opportunities** — full-time, contract, and remote.
 
-- 👯 I’m looking to collaborate on [Cleverstack CRM](http://crm.cleverstack.in/)
+## Technical Skills
 
-- 📫 How to reach me **mostofa122@gmail.com**
+- **Languages:** PHP, JavaScript, TypeScript, Python, SQL, Kotlin, Go, Bash
+- **Backend:** Laravel, Livewire, Filament, Backpack, Inertia.js, FastAPI, Node.js, Express.js, CodeIgniter, REST APIs, WebSockets
+- **Frontend:** React, Next.js, Vue.js, React Native, Tailwind CSS, Bootstrap, HTML5, CSS3
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite, Firebase
+- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Nginx, Linux, CI/CD, Git
+- **Telephony & Messaging:** FreeSWITCH (ESL), SMPP, WebRTC, WhatsApp Business (Meta Cloud API)
+- **Other:** AI/LLM integration, Postman, Figma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mostofa_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostofa_me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostofa-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostofa-me" height="30" width="40" /></a>
-<a href="https://fb.com/mostofa.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostofa.me" height="30" width="40" /></a>
-<a href="https://dribbble.com/kstmostofa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kstmostofa" height="30" width="40" /></a>
-</p>
+## Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Full Stack Software Engineer — Pareza Information Technology Consultants L.L.C
+*Dubai, United Arab Emirates | 01/2026 – Present*
+- Built Dazway Cloud Drive, a file storage and collaboration platform based on Nextcloud, extended with custom business logic.
+- Developed the Pareza School Management application.
+
+### Full Stack Software Engineer — CleverStack Innovations Private Limited
+*Bangalore, India | 01/2025 – 09/2025*
+- Increased concurrent call capacity of the CleverStack Cloud Telephony platform by 40%.
+- Led a 4-member development team, mentoring engineers and enforcing scalable architecture and security best practices.
+- Optimized the call log reporting module, bringing database query times below 500 ms.
+
+### Laravel Backend Engineer — Orient Provision & Trading
+*Jeddah, Saudi Arabia | 09/2023 – Present*
+- Built a Physical Inventory Count System.
+- Developed the OPTCL Merchandise application and Sales Management software using Laravel and Backpack.
+- Built a Visitor Management System that streamlined the customer entry process.
+- Optimized sales database queries, improving application performance by 30%.
+
+### Senior Software Engineer — Technodreams Advanced System
+*Bangalore, India | 01/2022 – 12/2024*
+- Integrated the WhatsApp API with the CRM, increasing customer engagement by 35%.
+- Developed a browser-based dialer widget for the CRM, enabling users to place calls directly from the browser.
+- Optimized the Laravel backend, reducing API response times by 40%.
+
+### Senior Software Engineer — MicroXen Technology
+*Dhaka, Bangladesh | 07/2019 – 12/2021*
+- Designed and implemented Pharmacy Management, Point of Sale (POS), and Diagnostic Management systems.
+- Launched the emart.com.bd e-commerce platform.
+- Developed Microxen Email Responder and a web-based Android emulator (Aladin).
+
+## Open-Source Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [laravel-whatsapp](https://github.com/kstmostofa/laravel-whatsapp) | Dual-backend WhatsApp integration for Laravel (Meta Cloud API + whatsapp-web.js) behind a single facade, with a Livewire admin UI. | Laravel, Livewire, WebSockets |
+| [laravel-backfill](https://github.com/kstmostofa/laravel-backfill) | Safe, resumable, keyset-paginated data backfills over large tables. [Docs](https://kstmostofa.github.io/laravel-backfill) | Laravel |
+| [laravel-smpp](https://github.com/kstmostofa/laravel-smpp) | High-performance SMS sending over the SMPP protocol for Laravel. | PHP, Laravel, SMPP |
+| [laravel-esl](https://github.com/kstmostofa/laravel-esl) | Connect to a FreeSWITCH ESL server and handle real-time telecom events. | PHP, Laravel, FreeSWITCH |
+| [resume-canvas](https://github.com/kstmostofa/resume-canvas) | Privacy-focused resume builder with live preview, color themes, and PDF export. [Live](https://www.resumecanvas.site) | Next.js, TypeScript, Tailwind CSS |
+
+## Selected Projects
+
+- **CleverStack Cloud Telephony** — Scalable platform for business calls, SMS, and IVR with high availability. *(Python, FastAPI, React, AWS)*
+- **CleverStack Dialer SDK** — Reusable React SDK for embedding a WebRTC browser dialer into applications. *(React, TypeScript, WebRTC)*
+- **Android SMS Gateway** — Turns Android phones into SMS gateways for bulk sending via HTTP API, with delivery reports and multi-SIM support. *(Kotlin, Android, Go)*
+- **[AlQuranly](https://www.alquranly.com/en)** — Web app for reading and listening to the Quran with multiple recitations and translations. *(Next.js, TypeScript, Tailwind CSS)*
+- **[Techverse Daily](https://techversedaily.com)** — Blog platform with a Laravel + Inertia React admin and a Next.js frontend. *(Laravel, Next.js)*
+- **[Enews71](https://enews71.com)** — SEO-optimized news portal with a Laravel + Filament backend and a Next.js frontend. *(Laravel, Filament, Next.js)*
+- **VOC Foundation CRM** — CRM for managing donors, donations, and campaigns. *(Laravel, PostgreSQL)*
+
+More projects and client testimonials: **[mostofa.me](https://mostofa.me)**
+
+## Contact
+
+- **Email:** [mostofa122@gmail.com](mailto:mostofa122@gmail.com)
+- **Website:** [mostofa.me](https://mostofa.me)
+- **LinkedIn:** [linkedin.com/in/mostofa-me](https://www.linkedin.com/in/mostofa-me/)
+- **GitHub:** [github.com/kstmostofa](https://github.com/kstmostofa)
