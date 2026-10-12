@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=140&section=header" width="100%" alt="" />
+<a href="https://mostofa.me"><img src="banner.svg" width="100%" alt="Md Mostafijur Rahman — Full Stack Software Engineer (Laravel, PHP, React, Next.js, AWS)" /></a>
 
-<h1 align="center">Md Mostafijur Rahman</h1>
-<h3 align="center">Full Stack Software Engineer · Laravel · PHP · React · Next.js · AWS</h3>
+<p align="center"><b>Md Mostafijur Rahman</b> — Full Stack Software Engineer · Laravel · PHP · React · Next.js · AWS</p>
 
 <p align="center">
   <a href="https://mostofa.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=7%2B+years+building+scalable+web+apps;Laravel+%7C+React+%7C+Next.js+%7C+AWS;Cloud+Telephony+%E2%80%A2+FreeSWITCH+%E2%80%A2+SMPP+%E2%80%A2+WebRTC;Open+to+full-time%2C+contract+%26+remote+roles" alt="7+ years building scalable web apps · Laravel · React · Next.js · AWS · Cloud Telephony" /></a>
