@@ -1,7 +1,7 @@
 <a href="https://mostofa.me">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
-    <img src="banner-light.svg" width="100%" alt="Md Mostafijur Rahman — Full Stack Software Engineer (Laravel, PHP, React, Next.js, AWS)" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <img src="assets/banner-light.svg" width="100%" alt="Md Mostafijur Rahman — Full Stack Software Engineer (Laravel, PHP, React, Next.js, AWS)" />
   </picture>
 </a>
 
