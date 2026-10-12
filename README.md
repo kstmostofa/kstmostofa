@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=kstmostofa&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
 </p>
 
 ---
