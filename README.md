@@ -1,4 +1,9 @@
-<a href="https://mostofa.me"><img src="banner.svg" width="100%" alt="Md Mostafijur Rahman — Full Stack Software Engineer (Laravel, PHP, React, Next.js, AWS)" /></a>
+<a href="https://mostofa.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
+    <img src="banner-light.svg" width="100%" alt="Md Mostafijur Rahman — Full Stack Software Engineer (Laravel, PHP, React, Next.js, AWS)" />
+  </picture>
+</a>
 
 <p align="center"><b>Md Mostafijur Rahman</b> — Full Stack Software Engineer · Laravel · PHP · React · Next.js · AWS</p>
 

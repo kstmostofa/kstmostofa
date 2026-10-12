@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Md Mostafijur Rahman — Full Stack Software Engineer">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .dot { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="12" fill="#FAFAF9" stroke="#E5E5E4"/>
+
+  <circle class="dot" cx="66" cy="60" r="5" fill="#FF4F00"/>
+  <text x="80" y="65" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">AVAILABLE FOR WORK</text>
+
+  <text x="57" y="150" class="sans" font-size="62" font-weight="700" letter-spacing="-2.4" fill="#0A0A0A">Md Mostafijur Rahman<tspan fill="#FF4F00">.</tspan></text>
+  <text x="60" y="196" class="sans" font-size="26" font-weight="400" letter-spacing="-0.4" fill="#6B7280">Full Stack Software Engineer</text>
+
+  <line x1="740" y1="56" x2="740" y2="216" stroke="#E5E5E4"/>
+  <text x="790" y="92" class="mono" font-size="13" fill="#6B7280">EXPERIENCE</text>
+  <text x="1140" y="92" class="sans" font-size="17" font-weight="500" text-anchor="end" fill="#0A0A0A">7+ years</text>
+  <line x1="790" y1="112" x2="1140" y2="112" stroke="#E5E5E4"/>
+  <text x="790" y="136" class="mono" font-size="13" fill="#6B7280">FOCUS</text>
+  <text x="1140" y="136" class="sans" font-size="17" font-weight="500" text-anchor="end" fill="#0A0A0A">Laravel · React · Next.js</text>
+  <line x1="790" y1="156" x2="1140" y2="156" stroke="#E5E5E4"/>
+  <text x="790" y="180" class="mono" font-size="13" fill="#6B7280">DOMAIN</text>
+  <text x="1140" y="180" class="sans" font-size="17" font-weight="500" text-anchor="end" fill="#0A0A0A">SaaS · Cloud telephony</text>
+  <line x1="790" y1="200" x2="1140" y2="200" stroke="#E5E5E4"/>
+  <text x="790" y="224" class="mono" font-size="13" fill="#6B7280">OPEN TO</text>
+  <text x="1140" y="224" class="sans" font-size="17" font-weight="500" text-anchor="end" fill="#0A0A0A">Remote · Full-time</text>
+
+  <line x1="60" y1="244" x2="1140" y2="244" stroke="#E5E5E4"/>
+  <text x="60" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">LARAVEL</text>
+  <text x="155.8" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">PHP</text>
+  <text x="214.0" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">REACT</text>
+  <text x="291.0" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">NEXT.JS</text>
+  <text x="386.8" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">AWS</text>
+  <text x="445.0" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">POSTGRESQL</text>
+  <text x="569.0" y="282" class="mono" font-size="13" letter-spacing="1.2" fill="#6B7280">FREESWITCH</text>
+  <text x="1140" y="282" class="mono" font-size="13" letter-spacing="1.2" text-anchor="end" fill="#0A0A0A">MOSTOFA.ME <tspan fill="#FF4F00">↗</tspan></text>
+</svg>
