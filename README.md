@@ -32,7 +32,7 @@ Full Stack Software Engineer with **7+ years of experience** building scalable w
 
 | Category | Stack |
 | --- | --- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=php,js,ts,python,kotlin,go,bash" alt="PHP, JavaScript, TypeScript, Python, Kotlin, Go, Bash" /><br/>PHP · JavaScript · TypeScript · Python · SQL · Kotlin · Go · Bash |
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,js,ts,python,kotlin,swift,go,bash" alt="PHP, JavaScript, TypeScript, Python, Kotlin, Swift, Go, Bash" /><br/>PHP · JavaScript · TypeScript · Python · SQL · Kotlin · Swift · Go · Bash |
 | **Backend** | <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi" alt="Laravel, Node.js, Express, FastAPI" /><br/>Laravel · Livewire · Filament · Backpack · Inertia.js · FastAPI · Node.js · Express.js · CodeIgniter · REST APIs · WebSockets |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css" alt="React, Next.js, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3" /><br/>React · Next.js · Vue.js · React Native · Tailwind CSS · Bootstrap · HTML5 · CSS3 |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite, Firebase" /><br/>PostgreSQL · MySQL · MongoDB · Redis · SQLite · Firebase |
@@ -88,6 +88,7 @@ Full Stack Software Engineer with **7+ years of experience** building scalable w
 | [laravel-smpp](https://github.com/kstmostofa/laravel-smpp) | High-performance SMS sending over the SMPP protocol for Laravel. | PHP, Laravel, SMPP |
 | [laravel-esl](https://github.com/kstmostofa/laravel-esl) | Connect to a FreeSWITCH ESL server and handle real-time telecom events. | PHP, Laravel, FreeSWITCH |
 | [resume-canvas](https://github.com/kstmostofa/resume-canvas) | Privacy-focused resume builder with live preview, color themes, and PDF export. [Live](https://www.resumecanvas.site) | Next.js, TypeScript, Tailwind CSS |
+| [reclaim](https://github.com/kstmostofa/reclaim) | Free Mac storage cleaner for developers: finds build caches, dependencies, Docker cache, large files and duplicates, and explains each before deleting. [Website](https://reclaim.mostofa.me) | Swift, SwiftUI, macOS |
 
 ## 🧩 Selected Projects
 
